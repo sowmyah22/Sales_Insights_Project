@@ -1,8 +1,8 @@
 # Business Insights of Atliq Hardware 
 
-## Atliq Hardware supplies computer hardware and peripherals .
+### Atliq Hardware supplies computer hardware and peripherals .
 
-## This Project involves in creating an automated dashboard which provides quick and latest insights of the data to make better decisions on Increasing the Revenue of the company .
+### This Project involves in creating an automated dashboard which provides quick and latest insights of the data to make better decisions on Increasing the Revenue of the company .
 
 ### Analysis Using Mysql Workbench
 
