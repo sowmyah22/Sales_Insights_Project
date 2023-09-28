@@ -2,12 +2,12 @@
 
 ### Atliq Hardware supplies computer hardware and peripherals .
 
-### This Project involves in creating an automated dashboard which provides quick and latest insights of the data to make better decisions on Increasing the Revenue of the company .
+ This Project involves in creating an automated dashboard which provides quick and latest insights of the data to make better decisions on Increasing the Revenue of the company .
 
 ### Analysis Using Mysql Workbench
 
  * The database contains 5 tables which are customers, markets, products, date and transactions
- * The data sample collected is in the time interval from 2017/june to 2020/june
+ * The data sample collected is in time interval between 2017/june to 2020/june
  * By querying on the data various observations was made and for further analysis tableau is used.
 
 ### Data Visualization and Analysis in Tableau
@@ -19,12 +19,12 @@
      * The data is Extracted from Mysql database server
    
     Transform :
-     * In the transactions table sales amount column contained negative values which isn't valid so the filter is used to exclude the values
+     * In the transactions table sales amount column contained negative values which isn't valid so filter is used to exclude the values
      * The currency column has 2 different currencies USD and Indian Rupees all the values are converted into Indian rupees
-     * Markets column has all branches from India and 2 other countries which seemed outliers those wee excluded by filters 
+     * Markets column has all branches from India and 2 other countries which seemed outliers those were excluded by filters 
 
     Load : 
-     * The is transformed and loaded back for further analysis on data
+     * The data is transformed and loaded back for further analysis
        
 ###  Revenue Analysis Dashboard
 
