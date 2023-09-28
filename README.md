@@ -26,4 +26,10 @@
     Load : 
      * The is transformed and loaded back for further analysis on data
 
+<img width="960" alt="Screenshot 2023-09-27 134548" src="https://github.com/sowmyah22/Sales_Insights_Project/assets/28885876/2b6adf33-1678-401d-9505-a1ae1351a32e">
+
+<img width="960" alt="Screenshot 2023-09-27 134345" src="https://github.com/sowmyah22/Sales_Insights_Project/assets/28885876/6a200ba5-dec6-4a1b-a3ee-f80fb86e4f58">
+
+
+
        
