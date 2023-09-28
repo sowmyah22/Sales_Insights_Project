@@ -25,11 +25,23 @@
 
     Load : 
      * The is transformed and loaded back for further analysis on data
+       
+###  Revenue Analysis 
 
 <img width="960" alt="Screenshot 2023-09-27 134548" src="https://github.com/sowmyah22/Sales_Insights_Project/assets/28885876/2b6adf33-1678-401d-9505-a1ae1351a32e">
 
+  * Total revenue of the company is 984.87 million with the overall sales quantity being 2.43 million for the time period 2017 to 2020
+  * Trend on Revenue plot shows how the company has performed . In 2018 there the sales has increased and there is decreasing trend over the other years and sales 
+    declined in 2020 
+  * Delhi NCR branch is the source of higher revenue for the company
+
+### Profit Analysis 
+
 <img width="960" alt="Screenshot 2023-09-27 134345" src="https://github.com/sowmyah22/Sales_Insights_Project/assets/28885876/6a200ba5-dec6-4a1b-a3ee-f80fb86e4f58">
 
+   * Between the  year 2018 and 2019 the profit seems to be on higher side and there is a decreasing trend . In 2020 the company is in huge loss
+   * Though the higher revenue is from Delhi NCR branch but Surat has higher profit and Bengaluru branch is in complete loss  
+   * There two types of customer which are from E-commerce and Brick & Mortar among which  75% of the company’s customers is from Brick & Mortar .
 
 
        
